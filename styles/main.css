@@ -1,0 +1,16 @@
+body{
+  font-family:monospace;
+  color:#000;
+  background-color:grey;
+  font-size:120%;
+  padding: 25px;
+}
+.container {
+  width: 650px;
+  margin: 0 auto;
+}
+#result, #spec{
+  margin:20px;
+  padding:10px;
+  border:1px solid white;
+}
